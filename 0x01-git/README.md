@@ -1,1 +1,2 @@
-Mys second readme
+Recommiting to git
+Hope it works!
